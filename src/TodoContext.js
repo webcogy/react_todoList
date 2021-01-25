@@ -44,7 +44,7 @@ function todoReducer(state, action) {
     }
 } 
 
-const TodoStateContext = createContext();``
+const TodoStateContext = createContext();
 const TodoDispatchContext = createContext();
 const TodoNextIdContext = createContext();
 
